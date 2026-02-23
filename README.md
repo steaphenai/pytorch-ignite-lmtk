@@ -1,4 +1,4 @@
-# ignite-lm-toolkit
+# pytorch-ignite-lmtk
 
 A language model training toolkit built with PyTorch-Ignite.
 
