@@ -15,6 +15,8 @@ pytorch-ignite. The goal is to demonstrate best practices for LM training with i
 - Model checkpointing based on best perplexity
 - YAML-based configuration
 
+## PyTorch-Ignite Features Used
+
 - `Engine` — training and evaluation loops
 - `Metric` — custom Perplexity metric
 - `ModelCheckpoint` — saves best model based on Perplexity
